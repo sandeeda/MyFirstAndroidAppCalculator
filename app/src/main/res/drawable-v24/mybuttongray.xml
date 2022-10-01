@@ -3,19 +3,19 @@
     <item android:state_pressed="true" >
         <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
             <solid android:color="@color/buttongray" />
-            <size android:height="88dp" android:width="88dp" />
+            <size android:height="77dp" android:width="77dp" />
         </shape>
     </item>
     <item android:state_focused="true">
         <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
             <solid android:color="@color/buttongray" />
-            <size android:height="88dp" android:width="88dp" />
+            <size android:height="77dp" android:width="77dp" />
         </shape>
     </item>
     <item >
         <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
             <solid android:color="@color/buttongray" />
-            <size android:height="88dp" android:width="88dp" />
+            <size android:height="77dp" android:width="77dp" />
         </shape>
     </item>
 </selector>
